@@ -36,6 +36,8 @@ This Jupyter Notebook provides an end-to-end analysis of customer churn using a 
     - **Model Performance:**  
         - The SVC model achieved the highest accuracy, outperforming other models.  
         - Accuracy scores for each model were reported, with the best model exceeding `accuracy_score(y_test, y_pred)*100`%.
+  - **Web Predictions:**
+    - Using Streamlit & joblib for customer churn prediction.  
 
 ## Visual Insights
 
