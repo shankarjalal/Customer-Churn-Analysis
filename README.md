@@ -46,9 +46,6 @@ This Jupyter Notebook provides an end-to-end analysis of customer churn using a 
 
 ## Conclusion
 
-This notebook demonstrates a robust and systematic approach to customer churn prediction. By combining thorough data exploration, detailed visualizations,
- and advanced machine learning techniques, actionable insights were derived to support business decision-making. The best-performing model is ready for deployment,
-  enabling proactive measures to reduce churn and improve customer retention.
 
 
 
